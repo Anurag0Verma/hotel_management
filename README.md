@@ -1,1 +1,2 @@
-# hotel_management_cpp
+# Hotel Management Project
+by watching yt channel simplilearn
